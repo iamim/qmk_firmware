@@ -33,9 +33,6 @@
     },
     "split": {
         "enabled": true,
-        "handedness": {
-            "matrix_grid": ["F6", "B5"]
-        },
         "soft_serial_pin": "D2",
         "usb_detect": {
             "enabled": true,
